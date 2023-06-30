@@ -6,3 +6,9 @@ print("두 번째 수정")
 
 #commit message : "세 번째 수정"
 print("세 번째 수정")
+
+#commit message : "diff"
+print("diff")
+
+#new_branch에서 수정하기
+print("최최종")
